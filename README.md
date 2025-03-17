@@ -19,9 +19,23 @@ clic sur copier
 #### Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.
 ![image](https://github.com/user-attachments/assets/fc91cf89-302f-4317-875d-66af676466b5)
 
-![image](https://github.com/user-attachments/assets/63eb2edc-7025-4145-88f2-791376ad6829)
+![image](https://github.com/user-attachments/assets/ba06d73b-ef33-445d-9cd2-5e8da8635d20)
+
 
 #### Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
 
+![image](https://github.com/user-attachments/assets/00a8360d-cc8e-4594-ab20-1a29acb8c73c)
 
 #### Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.
+![image](https://github.com/user-attachments/assets/63fdf93e-c2e5-4adb-b853-b1410df55571)
+
+### Partie 2 : Restriction utilisateurs
+#### Q.1.2.1 Faire en sorte que l'utilisateur Gabriel Ghul ne puisse se connecter que du lundi au vendredi, de 7h à 17h.
+
+#### Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.
+
+#### Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
+#### Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.
+
+
+
