@@ -38,9 +38,11 @@ clic sur copier
 
 
 #### Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
+![image](https://github.com/user-attachments/assets/16749a5b-805b-4634-b52e-51cd16807e3e)
 
+### Partie 3 : Lecteurs réseaux
 #### Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.
 ![image](https://github.com/user-attachments/assets/36bc7be3-bb70-4b5c-82e2-c343189548e7)
 
-
+![image](https://github.com/user-attachments/assets/f60b9656-d63b-40f2-898d-67313c91d77c)
 
