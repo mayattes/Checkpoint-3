@@ -31,11 +31,16 @@ clic sur copier
 
 ### Partie 2 : Restriction utilisateurs
 #### Q.1.2.1 Faire en sorte que l'utilisateur Gabriel Ghul ne puisse se connecter que du lundi au vendredi, de 7h à 17h.
+![image](https://github.com/user-attachments/assets/a7c89447-1e35-4104-8880-314d95af8981)
 
 #### Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.
+![image](https://github.com/user-attachments/assets/1ad3f152-8c02-4c54-94dc-b458acbf016b)
+
 
 #### Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
+
 #### Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.
+![image](https://github.com/user-attachments/assets/36bc7be3-bb70-4b5c-82e2-c343189548e7)
 
 
 
