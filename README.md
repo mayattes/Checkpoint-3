@@ -85,8 +85,19 @@ Cmd: ssh-keygen -t “numéro de clé”
 ![image](https://github.com/user-attachments/assets/6ae4d0fa-a03e-41f4-b9b3-4f07c2900481)
 
 #### Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.
+![image](https://github.com/user-attachments/assets/023234a3-5fb8-4e10-9732-8368ae389353)
+
+![image](https://github.com/user-attachments/assets/0bfb56c5-6670-4579-af5a-f91b111e78a2)
+
+![image](https://github.com/user-attachments/assets/66dbbbd3-0b4c-4b24-b2d2-7b565093ac69)
+
+![image](https://github.com/user-attachments/assets/4ebf451e-49c1-4e46-8286-f832d4fbdc6d)
+
+![image](https://github.com/user-attachments/assets/c876ae6d-8b0e-4880-ab41-8cb324cd5085)
 
 #### Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?
+![image](https://github.com/user-attachments/assets/b58de41a-f248-4588-838f-4b7a5731bf58)
+
 
 ### Partie 4 : Sauvegardes
 Le logiciel bareos est installé sur le serveur.
